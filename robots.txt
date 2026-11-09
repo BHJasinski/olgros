@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://olgros.pl/sitemap.xml
